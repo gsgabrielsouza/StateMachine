@@ -10,9 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```
-Give examples
-```
+- [.Net Core 3.0](https://dotnet.microsoft.com/download/dotnet-core)
 
 ### Installing
 
@@ -21,7 +19,8 @@ A step by step series of examples that tell you how to get a development env run
 Say what the step will be
 
 ```
-Give the example
+x
+dotnet run --project  src[ProjectName]
 ```
 
 And repeat
@@ -52,10 +51,6 @@ Explain what these tests test and why
 Give an example
 ```
 
-## Deployment
-
-Add additional notes about how to deploy this on a live system
-
 ## Built With
 
 - [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
@@ -72,9 +67,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-- **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+- **Gabriel Souza** -  [gsGabrielSouza](https://github.com/gsgabrielsouza)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
 ## License
 
@@ -85,3 +79,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 - Hat tip to anyone whose code was used
 - Inspiration
 - etc
+
+## Reference
+- https://symfony.com/doc/current/workflow/workflow-and-state-machine.html
